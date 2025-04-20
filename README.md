@@ -1,7 +1,6 @@
 # HealthScribe3000: Perspective-Aware Summarization in Healthcare QA
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Made with ♥️](https://img.shields.io/badge/Made%20with-♥️-red)](https://github.com/theshamiksinha)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-orange)](https://huggingface.co/)
 
@@ -158,8 +157,8 @@ Answer: Treatment involves healthy eating and regular physical activity...
 
 ## 🧑‍💻 Contributors
 
-- Shamik Sinha – [@theshamiksinha](https://github.com/theshamiksinha)
 - Vansh Yadav – [@vansh22559](https://github.com/vansh22559)
+- Shamik Sinha – [@theshamiksinha](https://github.com/theshamiksinha)
 - Shrutya Chawla – [@shrutya22487](https://github.com/shrutya22487)
 
 ## 📜 License
